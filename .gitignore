@@ -15,4 +15,3 @@ prisma/migrations
 .nuxt
 dev.db
 *.env*
-bin
