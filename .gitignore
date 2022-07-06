@@ -10,11 +10,6 @@ package-lock.json
 flow-typed
 migrations
 prisma/migrations
-javascript/**/migrations/
-typescript/**/migrations/
-misc/**/migrations/
-databases/**/migrations/
-experimental/**/*.db
 .next
 .vscode/
 .nuxt
